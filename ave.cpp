@@ -10,6 +10,6 @@ int main()
      sum=sum+x;
     }
     ave=sum/10;
-    cout<<"javab="<<sum;
+    cout<<"javab="<<ave;
     return 0;
 }
