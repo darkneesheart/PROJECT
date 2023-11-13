@@ -3,12 +3,14 @@
 #include<cmath>
 using namespace std;
 int main()
-{float i,x,sum=0;
-    for (i=0;i<=10;i++)
+{float i,n,x,pow=1;
+    cin>>n;
+    cin>>x;
+   for (i=1;i<=n;i++)
     {
-     cin>>x;
-     sum=sum+x;
+     pow=x*pow;
     }
-    cout<<"javab="<<sum;
+    cout<<"javab="<<pow;
+
     return 0;
 }
