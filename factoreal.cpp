@@ -3,7 +3,7 @@
 #include<cmath>
 using namespace std;
 int main()
-{float i,f=1,n;
+{double i,f=1,n;
     cin>>n;
     for (i=1;i<=n;i++)
     {
