@@ -1,4 +1,4 @@
-#include<stdfix.h>
+#include<stdfix.h>//this line just for vscode
 #include<iostream>
 #include<iomanip>
 #include<cmath>
