@@ -5,7 +5,7 @@ using namespace std;
 int main()
 
 {int i,n,x,pow;
-
+ 
     cin>>n;
    if (n%2==0)
     {
