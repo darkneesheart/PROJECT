@@ -5,7 +5,7 @@ using namespace std;
 int main()
 
 {int i,n,x,pow;
- 
+    cout<<"Enter num="<<endl;
     cin>>n;
    if (n%2==0)
     {
