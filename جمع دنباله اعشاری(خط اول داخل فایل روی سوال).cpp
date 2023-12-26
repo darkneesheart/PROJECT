@@ -1,3 +1,4 @@
+//1/2+1/3+1/4+.....+1/100
 #include<stdfix.h>
 #include<iostream>
 #include<cmath>
