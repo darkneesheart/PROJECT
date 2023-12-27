@@ -21,8 +21,8 @@ int main()
        (x1=(-b/(2*a)));
        cout<<endl<<x1;
       }
-         else {(x2=-b+(sqrt(delta))/(2*a));
-               (x3=-b-(sqrt(delta))/(2*a));
+         else {x2=(-b+sqrt(delta))/(2*a));
+               x3=(-b-sqrt(delta))/(2*a));
                 cout<<endl<<x1<<endl<<x2;}          
     return 0;
     cin.get();
